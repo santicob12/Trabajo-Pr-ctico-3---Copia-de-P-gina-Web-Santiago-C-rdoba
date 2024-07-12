@@ -1,0 +1,45 @@
+
+.titulo{
+    display:block;
+    margin:2px;
+    border:1px solid black;
+    padding: 20px;
+}
+.titulo2{
+    display:block;
+    margin:2px;
+    border:1px solid black;
+    padding: 20px;
+   
+    }
+a:hover {
+        color:rgb(26, 166, 209);
+      }
+    ul {
+        list-style: none;
+    }
+    a{
+        color:black;
+
+    }
+    .link-sin-subrayado{
+        text-decoration:none;
+    }
+.pagina{
+    position: fixed ;
+    border:1px solid black;
+    border-radius:100%;
+    border-top-left-radius: 0;
+width: 12%;
+}
+.parrafo{
+     text-align: center; 
+    align-items: center;
+    transform: translate(20px 50px);
+    }
+
+.parrafocentrado{
+text-align: center;    
+width:50%
+justify-content center;
+}
